@@ -20,3 +20,5 @@ Step 6. Go into the Easy Client Folder and start up the Modular Dropper, as it c
 
 Step 7. If everything has been done correctly, you SHOULD be able to see that the order of the stages has been scrambled. That is good and means it worked. 
 If you notice ANY issues while playing, please do not hesitate to let me know. You can also reach me on the KND page on Discord to let me know if there is any trouble or of any questions you may have. 
+
+Also- If you need to reset in-game, you can do this by using this button command; Ctrl+Alt+K, as it teleports you to your last Checkpoint. 
